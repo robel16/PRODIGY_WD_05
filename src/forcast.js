@@ -40,7 +40,7 @@ function Forcast(props) {
   };
 
   useEffect(() => {
-    search("Delhi");
+    search("Addis Ababa");
   }, []);
 
   return (
